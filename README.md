@@ -94,16 +94,16 @@ In this tutorial I used the YouTube's RSS to view the last 15 videos posted in a
     - **Likes:**  3,424
     - **Views:**  209,908
 13. **Released From Guantanamo (Out of Gitmo) (full documentary) | FRONTLINE**
-    - **Link** [https://www.youtube.com/watch?v=Wd5JfFjhfMQ)
+    - **Link** [https://www.youtube.com/watch?v=Wd5JfFjhfMQ](https://www.youtube.com/watch?v=Wd5JfFjhfMQ)
     - **Published** Jul 25, 2023 11:00 PM
-    - **Thumbnail** ![https://i4.ytimg.com/vi/Wd5JfFjhfMQ/hqdefault.jpg)
+    - **Thumbnail** ![Thumbnail](https://i4.ytimg.com/vi/Wd5JfFjhfMQ/hqdefault.jpg)
     - **Likes** 3,845
     - **Views** 366,358
 14. **How a Group of Texas Artists Came Together to Honor Uvalde’s Lost Kids | FRONTLINE**
 
-    - **Link** [https://www.youtube.com/watch?v=12rUsvSOUe8)
+    - **Link** [https://www.youtube.com/watch?v=12rUsvSOUe8](https://www.youtube.com/watch?v=12rUsvSOUe8)
     - **Published** Jul 24, 2023 09:00 PM
-    - **Thumbnail** ![https://i2.ytimg.com/vi/12rUsvSOUe8/hqdefault.jpg)
+    - **Thumbnail** ![Thumbnail](https://i2.ytimg.com/vi/12rUsvSOUe8/hqdefault.jpg)
     - **Likes** 393
     - **Views** 11,893
     
