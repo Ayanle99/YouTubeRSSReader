@@ -88,9 +88,9 @@ In this tutorial I used the YouTube's RSS to view the last 15 videos posted in a
     - **Views:** 904,380
 
 12. **Flying Cheaper (full documentary) | FRONTLINE**
-    - **Link:**  [https://www.youtube.com/watch?v=sw0b020OFj4)
+    - **Link:**  [https://www.youtube.com/watch?v=sw0b020OFj4](https://www.youtube.com/watch?v=sw0b020OFj4)
     - **Published:**  Aug 01, 2023 11:00 PM
-    - **Thumbnail:**  ![https://i4.ytimg.com/vi/sw0b020OFj4/hqdefault.jpg)•
+    - **Thumbnail:**  ![Thumbnail](https://i4.ytimg.com/vi/sw0b020OFj4/hqdefault.jpg)
     - **Likes:**  3,424
     - **Views:**  209,908
 13. **Released From Guantanamo (Out of Gitmo) (full documentary) | FRONTLINE**
