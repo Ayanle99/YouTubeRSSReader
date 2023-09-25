@@ -133,4 +133,5 @@ corey_channel_id = 'UCCezIgC97PvUuR4_gbFUs5g'
 url = base_url+pbs_channel_id
 
 yt = YouTube(url)
+yt.getChannel()
 
