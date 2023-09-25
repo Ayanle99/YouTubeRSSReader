@@ -32,7 +32,7 @@ In this tutorial I used the YouTube's RSS to view the last 15 videos posted in a
    - **Views:** 6,182
 
 4. **Putin vs. The Press (trailer) | FRONTLINE**
-   - **Link:** [https://www.youtube.com/watch?v=xKM3_PrqNLc](https://www.youtube.com/watch?v=xKM3_PrqNLc)
+   - **Link** [https://www.youtube.com/watch?v=xKM3_PrqNLc](https://www.youtube.com/watch?v=xKM3_PrqNLc)
    - **Published:** Sep 09, 2023 06:22 PM
    - **Thumbnail:** ![Thumbnail](https://i1.ytimg.com/vi/xKM3_PrqNLc/hqdefault.jpg)
    - **Likes:** 252
@@ -88,30 +88,30 @@ In this tutorial I used the YouTube's RSS to view the last 15 videos posted in a
     - **Views:** 904,380
 
 12. **Flying Cheaper (full documentary) | FRONTLINE**
-    - **Link:**  [https://www.youtube.com/watch?v=sw0b020OFj4]
+    - **Link:**  [https://www.youtube.com/watch?v=sw0b020OFj4)
     - **Published:**  Aug 01, 2023 11:00 PM
-    - **Thumbnail:**  ![https://i4.ytimg.com/vi/sw0b020OFj4/hqdefault.jpg]
+    - **Thumbnail:**  ![https://i4.ytimg.com/vi/sw0b020OFj4/hqdefault.jpg)•
     - **Likes:**  3,424
     - **Views:**  209,908
 13. **Released From Guantanamo (Out of Gitmo) (full documentary) | FRONTLINE**
-    - **Link"" [https://www.youtube.com/watch?v=Wd5JfFjhfMQ]
+    - **Link** [https://www.youtube.com/watch?v=Wd5JfFjhfMQ)
     - **Published** Jul 25, 2023 11:00 PM
-    - **Thumbnail** ![https://i4.ytimg.com/vi/Wd5JfFjhfMQ/hqdefault.jpg]
+    - **Thumbnail** ![https://i4.ytimg.com/vi/Wd5JfFjhfMQ/hqdefault.jpg)
     - **Likes** 3,845
     - **Views** 366,358
 14. **How a Group of Texas Artists Came Together to Honor Uvalde’s Lost Kids | FRONTLINE**
 
-    - **Link** [https://www.youtube.com/watch?v=12rUsvSOUe8]
+    - **Link** [https://www.youtube.com/watch?v=12rUsvSOUe8)
     - **Published** Jul 24, 2023 09:00 PM
-    - **Thumbnail** ![https://i2.ytimg.com/vi/12rUsvSOUe8/hqdefault.jpg]
+    - **Thumbnail** ![https://i2.ytimg.com/vi/12rUsvSOUe8/hqdefault.jpg)
     - **Likes** 393
     - **Views** 11,893
     
 15. **Inside Obama's Presidency (full documentary) | FRONTLINE**
 
-- **Link** [https://www.youtube.com/watch?v=NwLOuwtPAJ4]
+- **Link** [https://www.youtube.com/watch?v=NwLOuwtPAJ4)
 - **Published** Jul 18, 2023 11:00 PM
-- **Thumbnail** ![]
+- **Thumbnail** ![https://i3.ytimg.com/vi/NwLOuwtPAJ4/hqdefault.jpg)
 - **Likes** 12,411
 - **Views** 1,005,445
 
