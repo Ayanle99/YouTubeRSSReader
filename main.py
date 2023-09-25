@@ -3,7 +3,8 @@ from bs4 import  BeautifulSoup as bs
 import json
 from datetime import datetime
 """
-I added this import to format the video posted to a local time.
+I added this import to format the video timestamps. 
+The videos timestamp will be formated based on your local time. 
 """
 from tzlocal import get_localzone
 
