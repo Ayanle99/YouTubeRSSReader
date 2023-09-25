@@ -109,9 +109,9 @@ In this tutorial I used the YouTube's RSS to view the last 15 videos posted in a
     
 15. **Inside Obama's Presidency (full documentary) | FRONTLINE**
 
-- **Link** [https://www.youtube.com/watch?v=NwLOuwtPAJ4)
+- **Link** [https://www.youtube.com/watch?v=NwLOuwtPAJ4](https://www.youtube.com/watch?v=NwLOuwtPAJ4)
 - **Published** Jul 18, 2023 11:00 PM
-- **Thumbnail** ![https://i3.ytimg.com/vi/NwLOuwtPAJ4/hqdefault.jpg)
+- **Thumbnail** ![Thumbnail](https://i3.ytimg.com/vi/NwLOuwtPAJ4/hqdefault.jpg)
 - **Likes** 12,411
 - **Views** 1,005,445
 
